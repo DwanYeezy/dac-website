@@ -1,0 +1,39 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Business Funding Solutions</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="font-family: Arial; max-width: 700px; margin: auto; padding: 20px;">
+
+<h1>Fast Business Funding</h1>
+
+<p>I help businesses access working capital, equipment financing, and startup funding through trusted funding programs.</p>
+
+<h3>What I Offer</h3>
+<ul>
+<li>Working Capital</li>
+<li>Equipment Financing</li>
+<li>Startup Funding</li>
+<li>Credit-Based Programs</li>
+</ul>
+
+<h3>Apply for Funding</h3>
+
+<form>
+<input placeholder="Your Name" style="width:100%;padding:10px;"><br><br>
+<input placeholder="Email" style="width:100%;padding:10px;"><br><br>
+<input placeholder="Phone" style="width:100%;padding:10px;"><br><br>
+<input placeholder="Business Name" style="width:100%;padding:10px;"><br><br>
+<button style="padding:12px;width:100%;">Submit</button>
+</form>
+
+<p style="margin-top:40px;">
+Powered by David Allen Capital<br>
+Contact: YourEmailHere
+</p>
+
+</body>
+</html>
